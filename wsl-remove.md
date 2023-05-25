@@ -29,7 +29,7 @@
 ![](./img/img-5.png)  
 
 上記と同様の手順で検索バーに`linux`と入力し，以下の2点をアンインストールする    
-`Windows Subsystem for Linux Update`をアンインストール
+`Windows Subsystem for Linux Update`をアンインストール  
 `WLinux用Windowsサブシステム`をアンインストール  
 
 次に検索バーニ`cp`と入力し，コントロールパネルを開く  
